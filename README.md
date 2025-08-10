@@ -1,0 +1,2 @@
+Opis projektu
+Projekt ten ma na celu przeprowadzenie szczegółowej analizy danych sprzedaży telefonów z pliku Sales.csv. Analiza koncentruje się na zbadaniu wyników sprzedaży różnych marek telefonów, analizie przychodów, rabatów, rozkładzie cen, a także na korelacji między rozmiarem pamięci a ceną telefonu. Wszystkie analizy zostały przeprowadzone przy użyciu Pythona i bibliotek takich jak Pandas, Matplotlib, Seaborn.
