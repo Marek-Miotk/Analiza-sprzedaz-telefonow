@@ -30,8 +30,6 @@ Seaborn – do wizualizacji danych
 - Analiza pamięci: Zbadanie, jak rozkładała się sprzedaż telefonów o różnych rozmiarach pamięci w obrębie różnych marek.
 - Korelacja między pamięcią a ceną: Sprawdzenie, czy istnieje zależność między rozmiarem pamięci a ceną telefonu.
 
-----------------------------------------------------------
-
 >> Kroki analizy w kodzie
 
 1. Analiza sprzedaży telefonów wg marki
