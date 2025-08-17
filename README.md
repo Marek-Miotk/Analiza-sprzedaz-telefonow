@@ -14,10 +14,10 @@ Storage: Rozmiar pamięci telefonu (np. 64GB, 128GB)
 
 >> Zastosowane narzędzia
 
-Python (Jupyter)
-Pandas – do przetwarzania danych
-Matplotlib – do tworzenia wykresów
-Seaborn – do wizualizacji danych
+- Python (Jupyter)
+- Pandas – do przetwarzania danych
+- Matplotlib – do tworzenia wykresów
+- Seaborn – do wizualizacji danych
 
 >> Kroki analizy
 
